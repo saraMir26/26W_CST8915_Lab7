@@ -5,14 +5,14 @@
 ##  Lab Objectives
 
 * Understand the basic structure of Kubernetes YAML files
-* Learn how to create Kubernetes resources using `kubectl` and YAML
+* Learn how to create Kubernetes resources using kubectl and YAML
 * Deploy and manage applications in a Kubernetes cluster
 
 ---
 
 ##  Demo Video
 
-YouTube Link: [Lab 7 Demo](https://youtube.com/shorts/pR5KYraYUJQ)
+[YouTube Link](https://youtube.com/shorts/pR5KYraYUJQ)
 
 ---
 
